@@ -1,23 +1,15 @@
 
 ### Hi there 👋, My name is Suzana
 #### I am Full-stack developer
-![I am Full-stack developer]
 
 
 Skills:  JS / REACT  / HTML / CSS/ Ruby on Rails
 
+- 🔭 I’m currently working on becomming a Full-stack developer.
+- 🌱 I’m currently learning Javasript, React, Ruby on rails.
+- 👯 I’m looking to collaborate on diffrent projojects
+- 💬 Ask me about anything.
+- 📫 How to reach me: suzana.marsela@gmail.com
+- ⚡ I have a baheor degree on computer engineering.
 
-<!--
-**Suzi216/Suzi216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
