@@ -1,4 +1,11 @@
-### Hi there 👋
+
+### Hi there 👋, My name is Suzana
+#### I am Full-stack developer
+![I am Full-stack developer]
+
+
+Skills:  JS / REACT  / HTML / CSS/ Ruby on Rails
+
 
 <!--
 **Suzi216/Suzi216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
