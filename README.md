@@ -3,12 +3,10 @@
 #### I am Full-stack developer
 
 
-Skills:  JS / REACT  / HTML / CSS/ Redux/ Remote Work
+Skills:  JS / REACT  / HTML / CSS/ Redux/ JAVA/ SPRINGBOOT/ DOCKER/ Remote Work
 
-- 🔭 I’m currently working on becomming a Full-stack developer.
-- 🌱 I’m currently learning Javasript, React, Ruby on rails.
+- 🔭  Full-stack developer.
 - 👯 I’m looking to collaborate on diffrent projojects
-- ⚡ I have a bachelor degree on computer engineering and ongoing master degree.
 - 💬 Ask me about anything.
 - 📫 How to reach me: suzana.marsela@gmail.com
 
